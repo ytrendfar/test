@@ -4,3 +4,11 @@ i had created one txt
 so i don't have much motivation to do twice
 that's all
 let's go
+
+
+
+hello, this is yong
+this is my second commit
+i update this txt file
+and i will add and commit it for test
+good luck!
