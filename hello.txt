@@ -12,3 +12,7 @@ this is my second commit
 i update this txt file
 and i will add and commit it for test
 good luck!
+
+this is third test.
+nothing another to say.
+good bye.
