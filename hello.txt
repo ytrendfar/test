@@ -24,3 +24,5 @@ this is hot fix's content
 
 master merge test content
 hot-fix merge test
+
+github insert test
