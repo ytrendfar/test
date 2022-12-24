@@ -22,3 +22,4 @@ good bye.
 hot-fix!!!
 this is hot fix's content
 
+master merge test content
